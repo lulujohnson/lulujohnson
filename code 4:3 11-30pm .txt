@@ -1,0 +1,358 @@
+code 4/3 11:30pm
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="styles.css">
+    <body>
+
+        <div id="marker">
+            <hr class="vertical"/>
+            <h1> 1954:</h1>
+<h2> Tractors overtook horses on American farms.</h2>
+            
+            </div>
+        
+  <div id="frame">
+<div id="gallery">
+
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="600.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1600.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1645.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1675.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1880.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1907.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1920.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1930.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+     <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1940_1.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1940.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1942.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="1958.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2005.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2007.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2008.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2009.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2010.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2011_1.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2011.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2012_1.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2012_2.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2012.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2013.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2014_1.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+    <div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2014.jpg"></figure>
+        </div><p></p>
+    </div>
+   
+    
+<div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2015.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+<div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2016.jpg"></figure>
+        </div><p></p>
+    </div>
+    
+<div class="galleryitem">
+        <div class="image">
+            <figure>
+                <img src="2017.jpg"></figure>
+        </div><p></p>
+    </div>
+</div>
+      </div>
+    
+    </body>
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+/*
+Coded by Ian Griffin and Lulu Johnson
+Copyright 2019
+Pratt Insitute
+*/
+
+html, body {
+    width: 100%;
+  height: 100%;
+  margin: 0;
+    display: flex;
+    flex-flow:row nowrap;
+    background: #000;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+    font-weight: 100;
+    margin-left: -2px;
+    line-height: 20px;
+    margin-top: 12%;
+    margin-bottom: -8px;
+    font-size: 20px;
+    
+}
+
+h2 {
+    font-family: sans-serif;
+    color: white;
+    font-weight:100;
+    font-size: 16px;;
+    margin-left: -2px;
+    margin-bottom: 0px;
+}
+
+hr.vertical {
+  width: 0px;
+  height: 420px;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+
+  /* or height in PX */
+}
+
+#marker{
+    margin-left: 50%;
+    border: 3px red;
+    width: 40vw;
+    height: 100px;
+}
+
+#frame{
+    height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-top: auto 0;
+    width: 50vw;
+    position: absolute;
+    top: 0;
+    padding-left: 0px;
+}
+
+#gallery{
+    width:100%;
+    position: relative;
+    height: 100%;
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    overflow: auto;
+    }
+
+::-webkit-scrollbar { 
+    color: white; 
+    }
+p{
+    margin:1em;
+    color: #fff;
+    opacity: .5;
+    font-family: monospace
+    }
+
+.image{
+    width:50px;
+    height: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    display: flex;
+    flex-flow:row nowrap;
+    justify-content: center;
+    align-items: center;
+    transition: .25s ease-out;
+}
+.image:hover {
+    width: 100%;
+}
+
+
+figure{
+    margin:0 auto;
+     width:500px;
+    display: flex;
+    flex-flow:row nowrap;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 400px;
+    padding-top: 0px;
+    transition:.25s ease-out;
+    
+}
+
+img{
+    margin:0 auto;
+    width:auto;
+    flex-shrink: 0;
+    max-height: 100%;
+    object-fit: cover;
+}
+ 
