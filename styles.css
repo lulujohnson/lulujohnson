@@ -45,7 +45,7 @@ h2 {
 
 hr.vertical {
   width: 0px;
-  height: 420px;
+  height: 75%;
     color: white;
     position: absolute;
     left: 50%;
@@ -131,7 +131,7 @@ figure{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    height: 400px;
+    height: 75%;
     padding-top: 0px;
     transition:.25s ease-out;
     
@@ -144,5 +144,3 @@ img{
     max-height: 100%;
     object-fit: cover;
 }
- 
-
